@@ -1,6 +1,5 @@
 package com.sinasamaki.chromadecks
 
-import App
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.WindowPlacement
 import androidx.compose.ui.window.application
