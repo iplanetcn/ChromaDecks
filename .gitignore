@@ -221,5 +221,6 @@ gradle-app.setting
 *.hprof
 
 .idea/
+.kotlin/
 # End of https://www.toptal.com/developers/gitignore/api/gradle
 n

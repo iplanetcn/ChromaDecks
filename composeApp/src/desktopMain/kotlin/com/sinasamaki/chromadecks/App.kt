@@ -30,10 +30,10 @@ fun App() {
         ) {
             Surface(
                 Modifier
-                    .padding(16.dp)
-                    .aspectRatio(4 / 3f)
+//                    .padding(16.dp)
+                    .aspectRatio(16 / 9f)
                     .fillMaxSize()
-                    .clip(RoundedCornerShape(16.dp))
+//                    .clip(RoundedCornerShape(16.dp))
             ) {
 //                MeshGradientPresentation()
                 PathAnimationPresentation()
